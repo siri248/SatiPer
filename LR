@@ -1,0 +1,575 @@
+SDLC :
+
+Software Development life Cycle.
+
+in order to develop any siftware in the orgnization level we will follow the Process that prcoess we are indclding in the SDLC.
+
+we have to below stages in SDLC
+
+1) Requetmet Gathering &  Anaysis.
+
+Businnes Analyest or Project Mangement team will gether the requiremnets from the client and they have to Anayise the reuqirment.
+
+2) Design Documnet.( Arch tectechre diganram) Archtects.
+3) coding. Developr will write the code any of the Progemig language.
+4) Testing. Tester  wil verufy the code whather it is working as per the enDurce Requiremnet.
+5) DeployMnet & Maintance. Deploy on the env & 
+
+1) BA or mangemnet People.
+2) Coder( Devloper).( java,.net)
+3) Tester( QA).( Functional tester, Non functional Tester)
+4) Maintance team.( Network).
+
+______________________________________________________________________________________________________________..
+
+Development Methodlogies:
+
+this development Methodlogies will help us to follow the SDLC Steps.
+
+1) Water fall Methodlogy.
+2) Agile Methodlogy.
+3) Devops Methodlogy.
+
+
+But now a days all the Projects they are using Agile Mthodlogy and Devops.
+
+
+Before this Methods they are using the water fall Methodlogy.
+
+water Falll--------> Agile ------> Devops.
+
+Devops ;
+
+comination two things.
+
+Dev + Opertaions.
+
+-------------------------
+
+Testing Types.
+
+
+
+in the software we have only two kinds of testing.
+
+1) Functional Testing:
+2) Non functional Testing
+
+Functional testing :
+
+in the functional testing we are going to validate the functionalites of the application.
+
+in the functional Testing agin we have 
+
+1) Manual testing
+2) Automation Testing.
+
+1) Manual testing :
+
+we are going to avlidate the navigation steps maally or with help of the human being.
+
+2) Auto Mation :
+
+insted of validating the functionalites manually we are validating with help of the tool.
+
+Ex: Selenium
+2) Cucmber.
+
+wht the People :
+
+Autoomation Testing can do both Manual  Tsting + Automation.
+
+Manual Tester + 
+
+
+
+Non functiona Testing : irrsepctive of the funntionlity whatever the testing we are doing those testings will come under the Non functionl Testing.
+
+a) Performance Testing( 
+d) DB Testing
+d) Secutiry 
+
+
+Functional Testing conecpts :
+
+
+1) Smoke Testing
+2) Sanity Testing
+3) regression testing
+4) reTesting.
+
+
+
+Defect Lify ccycle.
+
+
+Servirty and Prioty.
+
+
+
+if any take any appliction how they will deploy and waht are the env.
+
+
+
+XYZ Application.
+
+1) requermet Gather.
+2) Design Docunet
+3) Coding------->Dev Envrionmet.
+
+
+4) Tetsing-----> Stage Env and QA and perf.
+
+
+Functional Testing: QA.
+
+Performance testing : Stage or perf 
+5) Depluyment & Maintnatce.
+
+
+1) Smoke Testing:
+
+Build verifcation thats why smoke testing we are calld bulied verifcation.
+
+Smoke Testing is a software Testing that is used to detremine if a new sofware bulid is ready for the next testing phase.
+
+
+     Build 
+code-----> QA.
+
+Bulid is Execute file.
+
+Sanity Testing:
+
+Baisc functiolities .
+
+
+
+Sanity Testing is sofwtare testing in the snity testing we are going to verfiy the basic functionalities of the new software build wthere it is working as exepcted or not.
+
+
+Regreseeion Testing:
+
+Along with the new functionality ( Feture)if we are checking the old functioality that testig we are calling as regression Testing.
+
+New functionality: One plus or Apple 
+
+6 months they will reslse the new feture.
+ old code 
+
+
+new code----> is impavting the old functionality that testingwe cann
+
+Ex:  Assume i hve the bike that bike had some reapire there some issue iwth break imedity i have give the Bike to Mechnic after 1 Day mechnic and called your Bike repaire is done and Pls take your bike.
+
+
+
+1) Break Check---New
+2) Ebgine petrol---old
+
+Along with the new fatrue if we are testing the old fature that testing we re calling as regresion testing.
+
+Re Testing : if the same funtionality we are testing mutiple times that we can called as Re testing.
+
+
+
+
+Defect Life cycle:
+
+Defect:Defect is nothing but issue . to repet that issue we are folowing the process that process we are calling as defect life cycle.
+
+
+
+1) New
+
+2) Open 
+
+3) Assign( Devloper)---------A)Accept  b) Reject c) Duplicate d) Defered e) NotA Abug.
+4) Fixed
+5) Retesting------> Reopen
+6) Close
+
+Sevrity and Priorty:
+
+Seviory :
+
+how much it was impacting the functionaly.
+
+1) High
+2) Low
+3) Medium
+
+
+Prioty : how much it is impacying.
+
+1) High
+2) Low
+3) Medium.
+
+High and Low Servity:
+
+1) High and low
+
+High and low :
+
+1) Low and High.
+
+
+--------------------------------------------
+Perfromance Testing:
+
+1) Performance Testing is the Non funtional testing we are going to evalte the application performance( Speed, Stabilityand scability) with differnt load contionds.
+
+why we need to do the performance Testing and what is the use and what will happen.
+
+Ans: we are going to measure the page loading with differnt load contions and if we are not condcting the performance testing if have any issus in the production they will loss budsBusiness to avoid the such kind of situationwe are doing the PT.
+
+how we will do the Performance Testing and what is your approch.
+
+to do the Performnace testing we hve the tools are avilble in the Market. to do the END end performance testing we are following PTLC( Performance Testing life cycle).
+
+what are the tools are vailabe for PT.
+
+1) Loadrunner: Mercury---->HP---> Microfocus( Microfocus Loadrunner).------> Licenced tool.(15 Company thery using the Load runner)
+
+2) Jmeter: Open source----> APache(80 Comaines they are using the jmeter)
+
+3) Neoload: Licneced tool( Neotys)( 5% the are using the neoload)
+
+4) VSTS: Licenecd tool( Microsoft) Visual and team systems.
+
+5) SoAsta: Cloud Bsed .
+
+6) RPt: Ration performance testing( IBM)
+
+7) Gataling: Open source tool.
+
+Out 8 Yeras Loadrunner and jmeter.
+
+
+
+PTLC(Performance Testing life cycle) or what is your roles and resposnblies or what is your approch for the PT or what is the process for end to end performance Testing.
+
+1) POC
+2) NFR
+3) Testplan or test Stargtgy.
+
+----------------------------------- Documentions
+4) Scripting and Enhancemnets.
+5) Test Data Prepation
+6) Execution
+7) Reporting & Analyis.
+
+ what is mean by POC and why are doing the POC.
+
+Ans : POC Stands for Proff of concept.in orrder to identify the tool for My project we are doing the POC.
+
+to identfiy the tool we have to the bewlo steps or prcoess.
+
+POC Requiremnest:
+
+1) i need the Application url.
+2) test Data 
+3) Navigation steps( while taking the Navigation steps i can the three flows small,Medium,Complex).
+4) Technology ( Java,Python) to devlop the Application.
+
+
+Stpe1: i need to navigate the flows manually.
+Step2: i need to verify whether PT able can able to record.
+Stpe3 : we have to execute the test with Less number of users  for 30 minutes.
+Stpe 4: and Prepare the POC repet and present the client.
+
+POC Report:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Businees and Functionaliy
+
+
+
+
+
+
+
+
+
+
+
+
+Old funct
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEV--Build----> QA.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+water Fall Methodlogy:
+
+
+1) water methodlogy was the first Development methodloy introdcured for the software.
+2) water fall mthodlogu will follow the Sequence of Steps.
+
+Requment gethering------> Design----> Coding-----> testing------>Deploment.
+3) it is very easy to understnad and implement.
+
+Disadangtes :
+
+1) we cant move on to the old phase if we have any cahnge or any new requiremnet.
+2) clinet collbration is not that much is good.
+
+ Agile Development Methodlogy ***:
+
+Now a days Most of the Project they are using the Agile Methodlogy.
+
+1) Agile Methodloy we are calling as itertive mode.
+
+Requerment Gathering ------> Desiggn----> Coding---> testing.
+
+2) in the Agile Methodlogy if we ant we can come back to the old phase if we want.
+
+
+3) in the Agile Development Methodlogy we are not developing Project in the Single Phase. here we are breaking the Application into serveral phases those phase we are going to cover in one ieteratvae that we are calling as sprint.
+
+Sprint : Short period of the Duartion.
+
+1 year --->
+
+Sprint: 2 to 3 Weeks.
+
+
+
+366/7=54 
+
+54/3=18
+
+
+
+4) Continue collbration with clinet and improvemnet of the work.
+
+Disatavges :
+
+1) it is very diffcut to undersatnd.
+
+
+
+waterfall:
+
+1) water fall mthod was firs model intoruced for the software and it will follow the seqnce of steps.
+2) it very easy to understnad and also wodnt have nuch interction with clinet.
+3) in the water fall model we cant come back the old phase.
+4) in the water fall model we dont have the sprint conecpt here we are devloping the applciation with out breaking.
+
+
+
+Agile :
+
+1) Agile methodloy will follow the iterive model.
+2) it is very diffcult to undersnad and clinet inetrtcion is very good.
+3) in the Agile methodlog we can come t back to the old phease if we needed.
+4) we have the sprint model and we are beraking the Application functionalits into the serveral pahses.
+
+Agile devloment in the Project level.
+
+Amozn Application -----> TCS
+
+
+
+2 Years 
+
+
+Agile Devlopment Methodlogies.
+
+Phase1: Launch
+Phave2:Logn
+Phase3: Add to cart
+Pahvse4: Paymnet
+phase4 : logoff.
+
+
+
+Sprint :
+
+Sprint: the short of the Project preiod.(118 Weeks).
+
+2  or 3 weeks.
+
+Scrum Team :
+
+1) Prodcut owner----> Prodcut owner wil take care of the careting the work.
+2) Scrum Master----> Scurm is the person who is going the LEad the scurm team . he is the non technical Personl he will scdule mething and he will take inputs from scrum and he will pass to the Prodcut owner.
+3) Developer-----> Code
+4) QA-----> tetsing.
+
+Stories : Stoiries is nothing but wthat ever the work we are going to that they are creating in the story format.
+
+
+1)  Prodcut Backlog: in the Product backlog meeting they used to create the stories and they will add into the Prodcut log.
+2) Sprint Planing or Sprint Bakclog.: we are going to take some of the stories form the prodcut backlog.we are going to into the sprint plaing. we are going to work those tories.
+3) Daily Stantduo: in th Daily wstand uo we are going to update which task task we are working and issues.
+
+4) Sprint review: we have to review .
+ 
+5) Sprint Retro: weif have to impeorve ny thing in the future sprint.
+
+Stroy point  weigtage.
+
+Epic :
+
+
+
+Jira:  
+
+
+
+
+
+
+
+
+
+
+
+
+PTLC:
+
+POC( Proffo of ocncept) to identify the tool.
+
+NFR:
+
+TestPlan or Stretgy
+
+Workload Model
+
+Scripting & Enhancemnent
+
+test Data
+
+Execution
+
+Reporting and Anaiysis.
+
+NFR(Non functional Requirements).
+
+in order to start the PT we need the requirements those requiemnts we are asking in the NFR  Stage. 
+
+as part the NFR requiremnet what are the quetion/inputs yor asking.
+
+
+Most of the cases NFR will provided by the BA or Dev team or Project Mangmenet.
+
+1) Peak Hour Data and Half peak Hour Data.
+
+Peak : when there will Be more load on the Sytem.
+off Peak load : when there will be less on the Sytem.
+
+2) CBTS ( Critical Businsees Transctions)  whch are the steps mostly performed by end user.
+
+if take any application there lot of functionalites are avilble.
+
+Perfomrnace : they are going to only the Critical functiolites.
+
+3) Expected Avg response Time or SLA.
+
+4) Nuber of users.
+
+5) Types of testing( Load Test , Stress Test, endurance Test,Scalinity).
+
+6) Server information (on rpomise or cloud ) andwhat is the threshold.
+
+7) APM tool or Monitoring.
+
+8) Env Details.( Env is always replica of the Prodcution)
+9) Test Data.( By navgating)
+10) POC ( if i get any issues whom i need to condcut).
+
+
+PT  tester------> BA or Dev team or Project team.
+
+Case2:PT Tesrer ---> BA (They are Not awre) then how will gather.
+
+Sol: To get the NFR for this situation we have to ask wheter its a new application or Exsiting Application.
+
+Assume it is exitsing appliction  then i will get the prodcution data with help of the Splun toool. we used to getthe  Quries from the Dve jeust we will run the queirws and i will will ge t info
+ May be there not using any tool then i will requets the application team to proidve the 1 Year Historica Data.
+
+
+Once we recived the Production Data i have to Anayze the production form there i will take NFR.
+
+Load Test
+Stress Test
+Endurance
+
+case3:PT----> BA Or Dev----> Production ( Existing Application)----> new Application.
+
+Ans:  if it is a new application then i will take the compatior Data.
+
+
+case4: PT----> BA -----> Production----> Compitator----> Core Business to online Businnes.
